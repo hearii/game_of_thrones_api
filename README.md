@@ -1,1 +1,4 @@
-# game_of_thrones_api
+Pulling Data from an API
+  > Data consists of more API urls
+  > Filling URL with valid data
+  > Data Cleaning 
